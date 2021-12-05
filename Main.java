@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // Day1.doDay1();
         // Day3.doDay3();
-        Day4.doDay4();
+        // Day4.doDay4();
+        Day5.doDay5();
     }
 }
