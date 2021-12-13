@@ -105,7 +105,7 @@ public class Day13 {
         for (int i = 0; i < display.length; i++) {
             for (int j = 0; j < display[i].length; j++) {
                 if ("#".equals(display[i][j])) {
-                    System.out.print("#");
+                    System.out.print("█");
                 } else {
                     System.out.print(" ");
                 }
