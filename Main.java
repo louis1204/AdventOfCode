@@ -18,6 +18,8 @@ public class Main {
         // Day11.doDay11();
         // Day11.doDay11Part2();
         // Day12.doDay12();
-        Day13.doDay13();
+        // Day13.doDay13();
+        Day14.doDay14();
+        Day14.doDay14Part2();
     }
 }
