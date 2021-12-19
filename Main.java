@@ -19,7 +19,10 @@ public class Main {
         // Day11.doDay11Part2();
         // Day12.doDay12();
         // Day13.doDay13();
-        Day14.doDay14();
-        Day14.doDay14Part2();
+        // Day14.doDay14();
+        // Day14.doDay14Part2();
+        // Day15.doDay15();
+        // Day16.doDay16();
+        Day18.doDay18();
     }
 }
