@@ -4,7 +4,7 @@ import java.util.*;
 public class Day6 {
     public static int doDay6() {
         try {
-            File file = new File("input6.txt");
+            File file = new File("input/input6.txt");
             FileReader fr = new FileReader(file);
             BufferedReader br = new BufferedReader(fr);
             
@@ -50,7 +50,7 @@ public class Day6 {
 
     public static int doDay6Part2() {
         try {
-            File file = new File("input6.txt");
+            File file = new File("input/input6.txt");
             FileReader fr = new FileReader(file);
             BufferedReader br = new BufferedReader(fr);
             

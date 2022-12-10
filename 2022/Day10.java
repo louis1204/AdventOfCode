@@ -4,7 +4,7 @@ import java.util.*;
 public class Day10 {
     public static void doDay10() {
         try {
-            File file = new File("input10.txt");
+            File file = new File("input/input10.txt");
             FileReader fr = new FileReader(file);
             BufferedReader br = new BufferedReader(fr);
             // Use a queue to store all the instructions, it can be integer

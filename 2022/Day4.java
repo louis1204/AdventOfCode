@@ -4,7 +4,7 @@ import java.util.*;
 public class Day4 {
     public static void doDay4() {
         try {
-            File file = new File("input4.txt");
+            File file = new File("input/input4.txt");
             FileReader fr = new FileReader(file);
             BufferedReader br = new BufferedReader(fr);
 
